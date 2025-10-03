@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on: A silver jewelry e-commerce project using React and node.js, integrated with Google Drive for backend storage.<br>Learning paths and content to improve my skills in JavaScript, backend development, and trading automation.<br>👯 I’m looking to collaborate on: Open-source tools that help small businesses manage sales, inventory, and finances.<br>Educational platforms or projects that aim to teach programming in a minimalist and structured way.<br>🤝 I’m looking for help with: Optimizing backend performance and file handling (Node.js + Google APIs).<br>Building scalable and secure architectures for e-commerce applications.<br>🌱 I’m currently learning Backend development with Node.js and Express.<br>- Advanced JavaScript (ES6+), React, and system design.<br>- Trading strategies and financial modeling using Python.<br>💬 Ask me about: <br>- How to organize learning paths for programming or data science.<br>-Building modern, clean UI/UX projects for personal brands or businesses.<br>- Automating business tasks with code.<br>⚡ Fun fact:<br>I mix business with tech — I’m passionate about turning ideas into real projects that generate impact, whether it's through code or commerce.
+🔭 I’m Trader of futures.
+SP500, NAS100, XAUUSD, BTCUSDT
 
 
 ## 🌐 Socials:
