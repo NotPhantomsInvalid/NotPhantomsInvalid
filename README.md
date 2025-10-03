@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m Trader of futures.
+About Me:
+🥶I’m Trader of futures.
 SP500, NAS100, XAUUSD, BTCUSDT
 
 
